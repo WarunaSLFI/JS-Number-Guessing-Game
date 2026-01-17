@@ -14,7 +14,7 @@ The game gives feedback if the guess is too high, too low, or correct, and shows
 ---
 
 ## 🚀 Live Demo
-👉 (Add GitHub Pages link here later)
+👉 https://github.com/WarunaSLFI/JS-Number-Guessing-Game
 
 ---
 
